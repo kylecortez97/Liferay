@@ -1,3 +1,3 @@
 # Liferay - Technical Challenge
-> This
+> This Project Is Completed In The Java Programming Language Using An Object-Oriented Design
 ## Project Description

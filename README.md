@@ -1,4 +1,3 @@
 # Liferay - Technical Challenge
 ## Project Description
-### The Project uses the Java Programming Language and an Object-Oriented Design
-The program.
+The project is to be completed in the Java Programming Language using an Object-Oriented Design.
